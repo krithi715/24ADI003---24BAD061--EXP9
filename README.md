@@ -1,1 +1,3 @@
-# 24ADI003---24BAD061--EXP9
+Movie Recommendation System
+
+This project implements a Movie Recommendation System using Collaborative Filtering with the MovieLens dataset. It covers user-based and item-based approaches to recommend movies based on user ratings and similarities. The system creates User-Item and Item-User matrices, computes cosine similarity, predicts ratings for unseen items, and generates top-N recommendations. Performance is evaluated using RMSE, MAE, and Precision@K, while visualizations like heatmaps and similarity graphs provide insights into user behavior, item popularity, and recommendation quality. The project also compares user-based and item-based approaches to highlight their strengths and scalability.
